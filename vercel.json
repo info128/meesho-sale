@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://rvcreationstore.in/:path*",
+      "permanent": false
+    }
+  ]
+}
